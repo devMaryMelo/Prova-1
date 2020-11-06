@@ -1,14 +1,7 @@
-## Getting Started
+## Descrição do Projeto
+Projeto java contendo a Prova 1 da matéria de Programação Orientada a Objetos.
+O intuito é explorar os conhecimentos obtidos até agora nas aulas sobre classes, atributos, métodos especiais, construtores e métodos não essenciais.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Autores
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+ - Mariana Melo
